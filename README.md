@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/GoFileBot"><img src="https://telegra.ph/file/9de93ed0d9c23990c211f.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/MSTL-UPDATES/GoFileBot"><img src="https://telegra.ph/file/9de93ed0d9c23990c211f.jpg" width="2000"></a></p>
 
 Telegram bot to upload files to gofile.io
 
@@ -12,7 +12,7 @@ Telegram bot to upload files to gofile.io
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/GoFileBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MSTL-UPDATES/GoFileBot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
